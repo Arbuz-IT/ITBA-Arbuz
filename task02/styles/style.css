@@ -1,0 +1,42 @@
+p, ol, ul {
+	font-family: 'Century Gothic', Arial;
+	font-size: 11px;
+	color: #3e5dd6;
+}
+.list {
+	color: #000000;
+	margin-left: 20px;
+}
+.pr {
+	color: orange;
+	font-weight: bold;
+	position: relative;
+	top: 10px; left: 10px;
+}
+table, th, td {
+	border: 1px solid gray;
+	border-collapse: collapse;
+	padding: 0px;
+}
+.cg_black_absolute {
+	font-size: 13px;
+	color: #000000;
+	position: absolute;
+	top: 10px; left: 10px;
+}
+.cg_small_absolute {
+	color: #3e5dd6;
+	position: absolute;
+	top: 10px; left: 10px;
+}
+.cg_black_relative {
+	font-size: 13px;
+	color: #000000;
+	position: relative;
+	top: 10px; left: 10px;
+}
+.cg_small_relative {
+	color: #3e5dd6;
+	position: relative;
+	top: 10px; left: 10px;
+}
